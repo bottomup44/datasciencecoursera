@@ -1,14 +1,14 @@
 #CodeBook
 
-The data source
+## The data source
 
 Raw Data https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Description of Raw Dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Raw dataset includes the following files:
+## Raw dataset includes the following files:
 
-README.txt'
+- README.txt'
 
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 
@@ -33,7 +33,7 @@ The following files are available for the train and test data. Their description
 
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
-Data Transformation
+## Data Transformation
 
 Five steps of data transformation are performed:
 
